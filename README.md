@@ -45,4 +45,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/nancykaim/LEETCODES/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Array
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/nancykaim/LEETCODES/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/nancykaim/LEETCODES/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
